@@ -1,4 +1,5 @@
 import java.util.Arrays;
+// Задача
 public class Main {
     public static void main(String[] args) {
         printArray();
